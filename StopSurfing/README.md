@@ -1,6 +1,6 @@
 ## 这里是**网课期间防颓废**程序的更新日志兼使用说明
 
-此文章同步发布于[GitHub](https://github.com/ChineseCJH/ChineseCJH/releases/tag/MyProgram)，[洛谷博客](https://www.luogu.com.cn/blog/Chen-Jinhui/how-to-work-hard)，[FZQOJ云剪切板](https://qoj.fzoi.top/post/3589)。
+此文章同步发布于[GitHub](https://github.com/ChineseCJH/ChineseCJH/tree/main/StopSurfing)，[洛谷博客](https://www.luogu.com.cn/blog/Chen-Jinhui/how-to-work-hard)，[FZQOJ云剪切板](https://qoj.fzoi.top/post/3589)。
 
 ### 关于作者
 
